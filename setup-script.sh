@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-resourceGroup="udacity-phongvm"
+resourceGroup="udacity-tuyendinh"
 location="eastus"
 osType="UbuntuLTS"
 vmssName="udacity-vmss"
